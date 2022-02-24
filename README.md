@@ -15,7 +15,7 @@ diabetes.R --- Logistic Regression using R
 
 final_project_RF_SH.ipynb --- RandomForest classifier
 
-final_project_zehao.ipynb --- GBT Classifier
+final_project_GB.ipynb --- GBT Classifier
 
 Datasets:
 demo_updated.csv --- Updated demographics Information
